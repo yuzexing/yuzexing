@@ -2,9 +2,9 @@
 
 ### 📝 **程序基础**
 
-- **C++ 基础**: [Cpp-Basic-Notes](https://github.com/yuzexing/unreal-learning/tree/main/Cpp-Basic-Notes)
-- **LeetCode 刷题记录**: [LeetCode-Notes](https://github.com/yuzexing/unreal-learning/tree/main/UE5%E5%AD%A6%E4%B9%A0)
-- **UE5 学习记录**: [LeetCode-Notes](https://github.com/yuzexing/unreal-learning/tree/main/leetcode)
+- **C++ 基础笔记**: [Cpp-Basic-Notes](https://github.com/yuzexing/unreal-learning/tree/main/Cpp-Basic-Notes)
+- **LeetCode 刷题记录**: [LeetCode-Notes](https://github.com/yuzexing/unreal-learning/tree/main/leetcode)
+- **UE5 学习记录**: [UE5-Notes](https://github.com/yuzexing/unreal-learning/tree/main/UE5%E5%AD%A6%E4%B9%A0)
 
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuzexing" /> </div>
