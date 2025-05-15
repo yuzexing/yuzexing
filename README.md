@@ -1,10 +1,13 @@
-## Hi there 👋
+# yuzexing的技术笔记
 
+### 📝 **程序基础**
 
+- **C++ 基础**: [Cpp-Basic-Notes](https://github.com/yuzexing/unreal-learning/tree/main/Cpp-Basic-Notes)
+- **LeetCode 刷题记录**: [LeetCode-Notes](https://github.com/yuzexing/unreal-learning/tree/main/UE5%E5%AD%A6%E4%B9%A0)
+- **UE5 学习记录**: [LeetCode-Notes](https://github.com/yuzexing/unreal-learning/tree/main/leetcode)
 
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuzexing" /> </div>
-
 
 <!--
 **yuzexing/yuzexing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
