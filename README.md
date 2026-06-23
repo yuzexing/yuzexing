@@ -9,6 +9,7 @@
 - **音效基础**：[Sound-FX](https://github.com/yuzexing/unreal-learning/tree/main/Reaper)
 - **Demo演示视频**: [RPG Demo](https://www.bilibili.com/video/BV1S43BzBE9f/?share_source=copy_web&vd_source=32b3557a81ec21a10f5c8ac6d7403eb4)
 - **独立游戏项目**: [Steam Store](https://store.steampowered.com/app/4475600/_/)
+- **Lyra资料汇总**: [Lyra Learning](https://github.com/yuzexing/unreal-learning/blob/main/Lyra%E8%B5%84%E6%96%99%E6%B1%87%E6%80%BB.md)
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuzexing" /> </div>
 
